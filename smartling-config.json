@@ -12,7 +12,7 @@
          {
             "type"                      : "xml",
             "authorizeContent"          : "true",
-		"pathRegex": "*\\.xml",
+		"pathRegex": "UC1\\/.*\\.xml",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
          }
      ]
