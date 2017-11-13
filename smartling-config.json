@@ -12,7 +12,7 @@
          {
             "type"                      : "xml",
             "authorizeContent"          : "true",
-		"pathRegex": "UC1.xml",
+		"pathRegex": "lables",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
          }
      ]
