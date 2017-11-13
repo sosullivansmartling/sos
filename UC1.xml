@@ -4,7 +4,7 @@
 <!-- smartling.variants_enabled = TRUE -->
 <!-- smartling.placeholder_format_custom = \{.+?\} -->
 <labels xmlns="http://www.hm.com/2017/OnlineLabels" generatorVersion="3.5.2">
-	<label key="login.title" smartlingKey="login.title ECM01" system="hybris"><![CDATA[LOGIN TITLE]]></label>
+	<label key="login.title" smartlingKey="login.title ECM01" system="hybris"><![CDATA[LOGIN]]></label>
 	<label key="login.continue" smartlingKey="login.continue ECM01" system="hybris" subsystem="frontend"><![CDATA[LOGIN CONTINUE]]></label>
 	<label key="order.confirmation.thanks2" smartlingKey="order.confirmation.thanks2 ECM01 {0}=ordercode" system="hybris" subsystem=""><![CDATA[ORDER CONFIRMATION THANKS2]]></label>
 	<label key="checkout.personal.id.not.match" smartlingKey="checkout.personal.id.not.match ECM11" system="hybris" subsystem="cockpit,frontend"><![CDATA[CHECKOUT PERSONAL ID NOT MATCH]]></label>
