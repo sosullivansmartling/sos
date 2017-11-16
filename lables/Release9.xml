@@ -6,7 +6,7 @@
 	<data>
 		
 		<key id="nyckel1checkout.multi.deliveryAddress.address&#xA;checkout.login.address&#xA;storeDetails.table.address&#xA;text.account.address" wireframeId="36" system="hybris" smartlingKey="nyckel1checkout.multi.deliveryAddress.address&#xA;checkout.login.address&#xA;storeDetails.table.address&#xA;text.account.address 36 ">
-			<labelDescription>Nyckel 1</labelDescription>
+			<labelDescription>Nyckel 1 updated</labelDescription>
 		</key>
 		<key id="nyckel2checkout.payment.header" wireframeId="48" system="hybris" smartlingKey="nyckel2checkout.payment.header 48 ">
 			<labelDescription>Nyckel 2</labelDescription>
