@@ -12,8 +12,15 @@
          {
             "type"                      : "xml",
             "authorizeContent"          : "true",
-		"pathRegex": "lables\\/.*\\.xml",
+			"pathRegex": "labels\\/.*\\.xml",
+            "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
+         },
+         {
+            "type"                      : "xml",
+            "authorizeContent"          : "true",
+			"pathRegex": "club\\/.*\\.xml",
             "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
          }
+		 
      ]
 }
