@@ -12,8 +12,8 @@
          {
             "type"                      : "xml",
             "authorizeContent"          : "true",
-			"pathRegex": "lables\\/.*\\.xml",
-            "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
+			"pathRegex": "labels\\/.*\\.xml",
+            "translationPathExpression" : "translated/${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
          }
      ]
 }
