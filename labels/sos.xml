@@ -4,6 +4,6 @@
 <!-- smartling.variants_enabled = TRUE -->
 <!-- smartling.placeholder_format_custom = \{.+?\} -->
 <labels xmlns="http://www.hm.com/2017/OnlineLabels" generatorVersion="3.5.2">
-	<label key="common" smartlingKey="common" system="hybris">Je suis chaîne commune</label>
-	<label key="diff" smartlingKey="diff" system="hybris">Je suis une chaîne</label>
+	<label key="common" smartlingKey="common" system="hybris">I am common string</label>
+	<label key="diff" smartlingKey="diff" system="hybris">I am a string</label>
 </labels>
