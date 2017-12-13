@@ -6,4 +6,5 @@
 <labels xmlns="http://www.hm.com/2017/OnlineLabels" generatorVersion="3.5.2">
 	<label key="one" smartlingKey="one" system="hybris">Je suis une chaîne</label>
 	<label key="two" smartlingKey="two" system="hybris">Je suis une chaîne</label>
+	<label key="mabel" smartlingKey="mabel" system="hybris">Mabel est un chien</label>
 </labels>
