@@ -11,7 +11,7 @@
          // Original resources have "_en" suffix and this suffix will be replaced with target locale in translations.
          {
             "type"                      : "xml",
-            "authorizeContent"          : "true",
+            "authorizeContent"          : "false",
 			"pathRegex": "labels\\/.*\\.xml",
             "translationPathExpression" : "translated/${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
          }
