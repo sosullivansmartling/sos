@@ -13,13 +13,13 @@
             "type"                      : "xml",
             "authorizeContent"          : "false",
 			"pathRegex": "labels\\/.*\\.xml",
-            "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
+            "translationPathExpression" : "translated/${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
          },
          {
             "type"                      : "xml",
             "authorizeContent"          : "false",
 			"pathRegex": "club\\/.*\\.xml",
-            "translationPathExpression" : "${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
+            "translationPathExpression" : "translated/${originalFile.path}${originalFile.baseName.replaceAll('_en$', '_'+locale)}.${originalFile.extension}"
          }
 		 
      ]
