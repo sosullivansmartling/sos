@@ -5,5 +5,6 @@
 <!-- smartling.placeholder_format_custom = \{.+?\} -->
 <labels xmlns="http://www.hm.com/2017/OnlineLabels" generatorVersion="3.5.2">
 	<label key="same" smartlingKey="same" system="hybris">I am a string</label>
+	<label key="common" smartlingKey="common" system="hybris">I am common string</label>
 	<label key="different" smartlingKey="different" system="hybris" subsystem="frontend">I am a different string</label>
 </labels>
