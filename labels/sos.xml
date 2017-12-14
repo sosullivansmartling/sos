@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- smartling.translate_paths = labels/label -->
+<!-- smartling.source_key_paths = labels/{label.smartlingKey} -->
+<!-- smartling.variants_enabled = TRUE -->
+<!-- smartling.placeholder_format_custom = \{.+?\} -->
+<labels xmlns="http://www.hm.com/2017/OnlineLabels" generatorVersion="3.5.2">
+	<label smartlingKey="one">One string</label>
+	<label smartlingKey="three">Two strings</label>
+</labels>
