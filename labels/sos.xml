@@ -6,5 +6,5 @@
 <labels xmlns="http://www.hm.com/2017/OnlineLabels" generatorVersion="3.5.2">
 	<label key="one" smartlingKey="one" system="hybris">I am new string</label>
 	<label key="two" smartlingKey="two" system="hybris">I was a string</label>
-	<label key="mabel" smartlingKey="mabel" system="hybris">Mabel is a dog</label>
+	<label key="mabel" smartlingKey="mabel" system="hybris">Mabel is a dog updated</label>
 </labels>
