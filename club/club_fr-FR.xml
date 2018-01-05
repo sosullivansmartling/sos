@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- smartling.translate_paths = labels/label -->
+<!-- smartling.source_key_paths = labels/{label.smartlingKey} -->
+<!-- smartling.variants_enabled = TRUE -->
+<!-- smartling.placeholder_format_custom = \{.+?\} -->
+<labels xmlns="http://www.hm.com/2017/OnlineLabels" generatorVersion="3.5.2">
+	<label key="login.club.title" smartlingKey="login.club.title ECM01" system="hybris"><![CDATA[TITRE DE L’OUVERTURE DE SESSION]]></label>
+	<label key="login.club.continue" smartlingKey="login.club.continue ECM01" system="hybris" subsystem="frontend"><![CDATA[TITRE DE L’OUVERTURE DE SESSION]]></label>
+	<label key="order.club.confirmation.thanks2" smartlingKey="order.club.confirmation.thanks2 ECM01 {0}=ordercode" system="hybris" subsystem=""><![CDATA[THANKS2 CONFIRMATION DE COMMANDE]]></label>
+	<label key="checkout.club.personal.id.not.match" smartlingKey="checkout.club.personal.id.not.match ECM11" system="hybris" subsystem="cockpit,frontend"><![CDATA[NUMÉRO D’IDENTIFICATION PERSONNEL CAISSE NE CORRESPOND PAS À]]></label>
+</labels>
