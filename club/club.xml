@@ -8,5 +8,4 @@
 	<label key="login.club.continue" smartlingKey="login.club.continue ECM01" system="hybris" subsystem="frontend"><![CDATA[LOGIN CONTINUE]]></label>
 	<label key="order.club.confirmation.thanks2" smartlingKey="order.club.confirmation.thanks2 ECM01 {0}=ordercode" system="hybris" subsystem=""><![CDATA[ORDER CONFIRMATION THANKS2]]></label>
 	<label key="checkout.club.personal.id.not.match" smartlingKey="checkout.club.personal.id.not.match ECM11" system="hybris" subsystem="cockpit,frontend"><![CDATA[CHECKOUT PERSONAL ID NOT MATCH]]></label>
-	<label key="hm/components/global/footer?twitterText" smartlingKey="club.hm/components/global/footer?twitterText ECM03" system="adobe"><![CDATA[TWITTER TEXT]]></label>
 </labels>
